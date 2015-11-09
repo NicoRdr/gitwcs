@@ -14,7 +14,14 @@ body
 /*		image      / 
 /******************/
 
-.anime
+.anime,.drag,.daftpunk,.bleach,.cat
 {
-	
+  width: 250px;
+
+
+}
+
+.logo
+{
+  width: 150px;
 }
